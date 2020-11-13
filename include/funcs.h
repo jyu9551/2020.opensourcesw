@@ -2,6 +2,6 @@
 #define __FUNCS_H__
 
 void foo();
-
+void stable_func();
 
 #endif
