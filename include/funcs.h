@@ -3,5 +3,6 @@
 
 void foo();
 void stable_func();
+void goo();
 
 #endif
