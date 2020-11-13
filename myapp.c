@@ -5,5 +5,7 @@ int main()
 {
 	foo();
 	goo();
+	
+	stable_func();
 	return 0;
 }
